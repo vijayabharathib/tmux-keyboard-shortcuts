@@ -51,7 +51,8 @@ Manual from `man tmux` and/or `Prefix + ?` should server as good starting point.
 
 **Operation** | **Command / Key**
 --------------|------------------
-`Prefix + [` | Enter into copy mode
+`Prefix + [` | Enter into copy/scroll mode
+`q` | To exit out of copy/scroll mode
 `Ctrl + Space` | Mark start of copy region
 `<arrow>` | Navigate with arrow to select a region of text
 `Alt + w` | Copy selected region
