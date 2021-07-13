@@ -26,8 +26,8 @@ Manual from `man tmux` and/or `Prefix + ?` should server as good starting point.
 `Prefix + ,` | Rename current window
 `Prefix + <n>` | Select the window at index given at `n`
 `Prefix + '` | Key in window index to select the window
-`Prefix + n` | Move to the next window
-`Prefix + p` | Move to the previous window
+`Prefix + n` | Cycle through / Move to the next window
+`Prefix + p` | Cycle through / Move to the previous window
 `tmux movew -t<n>` | Move current window to specified index
 `Prefix + l` | Last active window
 `Prefix + f` | Find window by text content
